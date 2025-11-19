@@ -8,7 +8,7 @@ import Events from "./pages/Events";
 import ForgotPassword from "./pages/ForgotPassword";
 import ResetPassword from "./pages/ResetPassword";
 
-// Admin Components
+// Admin Component
 import AdminDashboard from "./components/admin/AdminDashboard";
 import ManageEvents from "./components/admin/ManageEvents";
 import AddEvent from "./components/admin/AddEvent";
